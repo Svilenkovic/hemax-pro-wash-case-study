@@ -4,7 +4,7 @@
 
 Web shop for a Leskovac distributor of professional cleaning chemicals, where each pack size is a variant with its own code, price and stock.
 
-**[hemaxprowash.com](https://hemaxprowash.com/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/hemax-pro-wash) · [Srpski](README.sr.md)
+**[hemaxprowash.com](https://hemaxprowash.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/hemax-pro-wash) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -40,7 +40,7 @@ Pack sizes are variants of one product, each with its own label, code, price, st
 | Mobile | 97 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `FAQPage`, `OnlineStore`, `Organization`, `Store`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `FAQPage`, `OnlineStore`, `Organization`, `Store`.
 
 ## Screenshots
 
